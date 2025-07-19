@@ -15,7 +15,7 @@ public class ArithmeticOperator {
 
         //div
          int resul_div=num%num1;
-        System.out.println(resul_mul);
+        System.out.println(resul_div);
 
         //increment
         int sol = num++ ;//post increment
